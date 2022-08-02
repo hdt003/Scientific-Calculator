@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+    <string name="clear">Clear</string>
+    <string name="exponent">^</string>
+    <string name="parenthesis">()</string>
+    <string name="divide">\u00f7</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">\u00d7</string>
+    <string name="plusMinus">+/-</string>
+    <string name="backspace"> </string>
+    <string name="point">.</string>
+    <string name="equal">=</string>
+    <string name="answer_show_here">Answer Will Show Here</string>
+    <string name="expression_show_here">Expression Will Show Here</string>
+    <string name="more">more Functions</string>
+    <string name="emoji">&#128514;</string>
+
+
+</resources>
