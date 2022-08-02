@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.application.calculator.app-mergeDebugResources-24:/layout/activity_main.xml",
+        "source": "com.application.calculator.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-mergeDebugResources-24:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\layout\\activity_main.xml"
+    }
+]

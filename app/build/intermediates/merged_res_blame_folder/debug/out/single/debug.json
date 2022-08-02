@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable_drawable_expression.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\drawable\\drawable_expression.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-v24_backspace.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\drawable-v24\\backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable_img.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-pngs-20:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\drawable_drawable_answer.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\drawable\\drawable_answer.xml"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.application.calculator.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.application.calculator.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.application.calculator.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    }
+]
